@@ -8,8 +8,8 @@
 		<version>3.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.demo</groupId>
-	<artifactId>apilogin</artifactId>
+	<groupId>com.igrep11</groupId>
+	<artifactId>BE</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>apilogin</name>
 	<description>api login</description>

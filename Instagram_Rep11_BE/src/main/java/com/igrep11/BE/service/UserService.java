@@ -1,6 +1,6 @@
-package com.demo.apilogin.service;
+package com.igrep11.BE.service;
 
-import com.demo.apilogin.entity.UserEntity;
+import com.igrep11.BE.entity.UserEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.Optional;

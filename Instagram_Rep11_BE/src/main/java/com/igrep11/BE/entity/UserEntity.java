@@ -1,4 +1,4 @@
-package com.demo.apilogin.entity;
+package com.igrep11.BE.entity;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnore;

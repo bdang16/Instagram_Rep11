@@ -1,4 +1,4 @@
-package com.demo.apilogin.model;
+package com.igrep11.BE.model;
 
 
 import lombok.Builder;

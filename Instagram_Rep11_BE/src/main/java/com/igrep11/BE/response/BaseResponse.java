@@ -1,10 +1,8 @@
-package com.demo.apilogin.response;
+package com.igrep11.BE.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
-import java.time.LocalDateTime;
 
 @AllArgsConstructor
 @NoArgsConstructor
