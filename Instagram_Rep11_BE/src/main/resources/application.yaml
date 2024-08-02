@@ -1,0 +1,9 @@
+#spring.application.name=apilogin
+#server.port=1424
+
+security:
+    jwt:
+      secret-key: verysecretkeyohmygodwhyisitsosecretdonttellanybody
+
+server:
+  port: 1424
